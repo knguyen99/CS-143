@@ -1,0 +1,1 @@
+SELECT DISTINCT country FROM affiliations WHERE name="CERN";
